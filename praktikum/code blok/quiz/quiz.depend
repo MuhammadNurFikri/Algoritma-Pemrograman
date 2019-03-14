@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540430175 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\quiz\main.cpp
+	<iostream>
+	<windows.h>
+

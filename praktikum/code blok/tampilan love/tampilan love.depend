@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543236913 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\tampilan love\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+

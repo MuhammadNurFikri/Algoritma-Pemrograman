@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544068127 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\memanggil direktori windows\main.cpp
+	<stdio.h>
+	<direct.h>
+	<unistd.h>
+	<iostream>
+

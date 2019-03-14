@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545260350 source:d:\sekolah\kuliah\prak alpro\bikinfolder\main.cpp
+	<iostream>
+	<conio.h>
+	<dir.h>
+	<process.h>
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+	<sys/stat.h>
+

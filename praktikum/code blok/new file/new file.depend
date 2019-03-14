@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545628899 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\new file\main.cpp
+	<iostream>
+	<dirent.h>
+	<stdlib.h>
+	<algorithm>
+	<string>
+

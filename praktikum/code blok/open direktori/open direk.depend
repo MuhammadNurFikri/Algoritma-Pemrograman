@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545227440 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\open direk\main.cpp
+	<dirent.h>
+	<stdio.h>
+	<string.h>
+

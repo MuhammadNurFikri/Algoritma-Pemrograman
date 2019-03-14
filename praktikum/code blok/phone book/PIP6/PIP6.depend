@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545387351 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\phone book\pip6\main.cpp
+	<cctype>
+	<iostream>
+	"directory.h"
+
+1545387585 p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\phone book\pip6\directory.h
+	"entry.h"
+
+1545387667 p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\phone book\pip6\entry.h
+

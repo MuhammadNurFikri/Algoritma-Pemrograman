@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544621345 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\direk\main.cpp
+	<conio.h>
+	<iostream>
+	<windows.h>
+

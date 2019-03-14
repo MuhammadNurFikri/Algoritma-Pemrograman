@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544622440 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\anu explorer\main.cpp
+	<windows.h>
+	<string>
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544761301 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\new menu selection\main.cpp
+	<iostream>
+	<string>
+	<dir.h>
+	<process.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<sys/stat.h>
+

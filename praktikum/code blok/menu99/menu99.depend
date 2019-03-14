@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1545390251 source:p:\itt purwokerto\tek.informatika\matkul\alpro\praktikum\code blok\menu99\main.cpp
+	<iostream>
+	<io.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<fstream>
+	<string>
+	<tchar.h>
+	<windows.h>
+	<string>
+	"shlwapi.h"
+	<iomanip>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
